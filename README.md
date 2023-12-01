@@ -3,7 +3,7 @@ Metabolic Exploration of Fibroblasts in Breast Cancer
 Professor: Germán Andrés Preciat González
 Bioengineering and Metabolic Systems, 2023B, MCBCI, CUCEI, University of Guadalajara.
 
-# Team Members:
+## Team Members:
 Rigoberto Rincón Ballesteros
 
 Bruno Salvador Santana Campos
@@ -14,7 +14,20 @@ Josué González Sandoval
 
 Juan Carlos Kelly Naranjo
 
-# Disclosure for Academic Purposes 
+## How to Use This Repository
+
+To effectively utilize this repository, follow the steps below to create context-specific genomic scale models and explore its metabolic behaviours:
+
+Navigate to the XomicsGenerator directory and execute the XomicsGenerator.py code directly from the command line using the following structure: "currentpath\python XomicsGenerator.py <Dataset>". In this instance, the <Dataset> is the text file named "GSE196354_NFs_CAFs_RNAseq_FPKM". As a result, a folder named "results" will be generated, containing all the text files derived from the dataset.
+
+Within the project folder, locate a MATLAB script named "ModelGenerationandIterador". Run this script in MATLAB, leading to the creation of a folder named "Specific_Models". Inside this folder, you will find subfolders, each housing specific models saved as .mat files.
+
+Open the Experiments script (.mlx or .m file) in MATLAB and execute the code to observe the results. To accomplish this, utilize the barPlotComparison function, ensuring it is placed in the same path beforehand.
+
+Note: When creating specific models, there is an option to incorporate bibliomic data, which can be directly downloaded from this repository. The duration of specific model creation may vary from hours to days, depending on computational power.
+
+
+## Disclosure for Academic Purposes 
 
 The content provided below is used exclusively for academic and learning activities.
 This material is the intellectual property of the University of Guadalajara and is intended solely for the educational use of students and members of the academic community.
