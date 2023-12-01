@@ -4,10 +4,14 @@ Professor: Germán Andrés Preciat González
 Bioengineering and Metabolic Systems, 2023B, MCBCI, CUCEI, University of Guadalajara.
 
 # Team Members:
-Rigoberto Rincón Ballesteros\n
-Bruno Salvador Santana Campos\n
-Ramyet Sotelo Rodríguez\n
-Josué González Sandoval\n
+Rigoberto Rincón Ballesteros
+
+Bruno Salvador Santana Campos
+
+Ramyet Sotelo Rodríguez
+
+Josué González Sandoval
+
 Juan Carlos Kelly Naranjo
 
 # Disclosure for Academic Purposes 
