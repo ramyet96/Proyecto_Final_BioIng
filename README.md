@@ -18,7 +18,7 @@ Juan Carlos Kelly Naranjo
 
 To effectively utilize this repository, follow the steps below to create context-specific genomic scale models and explore its metabolic behaviours:
 
-Navigate to the XomicsGenerator directory and execute the XomicsGenerator.py code directly from the command line using the following structure: "currentpath\python XomicsGenerator.py <Dataset>". In this instance, the <Dataset> is the text file named "GSE196354_NFs_CAFs_RNAseq_FPKM". As a result, a folder named "results" will be generated, containing all the text files derived from the dataset.
+Navigate to the XomicsGenerator directory and execute the XomicsGenerator.py code directly from the command line using the following structure: "currentpath\python XomicsGenerator.py (Dataset)". In this instance, the Dataset is the text file named "GSE196354_NFs_CAFs_RNAseq_FPKM". As a result, a folder named "results" will be generated, containing all the text files derived from the dataset.
 
 Within the project folder, locate a MATLAB script named "ModelGenerationandIterador". Run this script in MATLAB, leading to the creation of a folder named "Specific_Models". Inside this folder, you will find subfolders, each housing specific models saved as .mat files.
 
